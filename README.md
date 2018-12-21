@@ -1,0 +1,2 @@
+# RMIChat
+RMI  chat application
